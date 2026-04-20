@@ -1,1 +1,5 @@
-These are my cloud migration notes.
+
+I'm Sai Prakash
+AWS DevOps tutor
+This is Git and Github hands-on session
+
