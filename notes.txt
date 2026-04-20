@@ -2,4 +2,5 @@
 I'm Sai Prakash
 AWS DevOps tutor
 This is Git and Github hands-on session
+today is Monday, April 20, 2026
 
